@@ -10,6 +10,8 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 ## commit 17 b6
 ## commit 18 b6
+## commit 19 fixRebase branch
+## commit 20 fixRebase1 branch
 If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
 
 ```js
